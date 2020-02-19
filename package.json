@@ -1,0 +1,22 @@
+{
+  "name": "scp_lookup_host",
+  "version": "1.0.0",
+  "description": "A host to utilize the scp_lookup module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/scp_lookup_host.git"
+  },
+  "author": "Jason Graziano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/scp_lookup_host/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/scp_lookup_host#readme"
+}
